@@ -9,8 +9,8 @@ Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/et/aspell6-et-%{version}-%{subv}.tar.bz2
 # Source0-md5:	82929f49ddc1149b6ef2bde4c3c12bcd
 URL:		http://wordlist.sourceforge.net/
-BuildRequires:	aspell >= 0.60.0
-Requires:	aspell >= 0.60.0
+BuildRequires:	aspell >= 3:0.60.0
+Requires:	aspell >= 3:0.60.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
