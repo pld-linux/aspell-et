@@ -1,5 +1,5 @@
 Summary:	Estonian dictionary for aspell
-Summary(pl.UTF-8):   Słownik estoński dla aspella
+Summary(pl.UTF-8):	Słownik estoński dla aspella
 Name:		aspell-et
 Version:	0.1.21
 %define	subv	1
