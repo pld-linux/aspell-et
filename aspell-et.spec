@@ -6,7 +6,7 @@ Version:	0.1.21
 Release:	1
 License:	Custom
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/et/aspell6-et-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/et/aspell6-et-%{version}-%{subv}.tar.bz2
 # Source0-md5:	82929f49ddc1149b6ef2bde4c3c12bcd
 URL:		http://aspell.net/
 BuildRequires:	aspell >= 3:0.60.0
