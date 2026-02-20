@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik estoński dla aspella
 Name:		aspell-et
 Version:	0.1.21
 %define	subv	1
-Release:	1
+Release:	2
 License:	Custom
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/et/aspell6-et-%{version}-%{subv}.tar.bz2
